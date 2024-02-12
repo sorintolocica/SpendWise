@@ -1,5 +1,4 @@
 
-Desigur! Iată o propunere de descriere pentru GitHub pentru aplicația ta de gestionare a cheltuielilor și bugetelor personale:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Numele Aplicației: SpendWise
 SpendWise este o aplicație dezvoltată în Laravel, dedicată gestionării cheltuielilor și monitorizării bugetelor personale. Cu SpendWise, utilizatorii pot organiza cheltuielile în categorii și stabili limite de cheltuieli lunare pentru fiecare categorie. Aplicația oferă o experiență intuitivă și interactivă, ajutând utilizatorii să-și gestioneze mai eficient finanțele personale.
